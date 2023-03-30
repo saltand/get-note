@@ -1,0 +1,7 @@
+@import './base.css';
+
+#app {
+  padding: 16px;
+  height: 100%;
+  background-color: rgb(235, 238, 241);
+}
